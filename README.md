@@ -36,7 +36,7 @@ The following challenge packs are currently available:
 
 **Q8-Q10 will be added after final organizer review.**
 
-Download the available challenge packs from the `packs` folder.
+Download the available challenge packs from the `ctf_tasks` folder.
 
 ## Allowed
 
