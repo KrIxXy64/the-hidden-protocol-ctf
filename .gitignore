@@ -1,0 +1,23 @@
+# Private organizer/build material
+PASSWORDS.txt
+*PASSWORD*
+*solution*
+*SOLUTIONS*
+HINT2*
+*hint*slip*
+BUILD/
+STATION/
+GITHUB_REPO/
+GITHUB_PUBLIC/
+FINAL_VAULT.zip
+Vault.zip
+*VAULT*
+
+# Python/build artifacts
+__pycache__/
+*.pyc
+
+# Temporary files
+*_before_fix.*
+*.bak
+*.tmp
