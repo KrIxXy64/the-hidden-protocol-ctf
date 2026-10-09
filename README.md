@@ -39,6 +39,8 @@ All ten challenge packs are available in the `ctf_tasks` folder:
 
 Start with Q1 and follow the instructions in each pack to unlock the next.
 
+The separate encrypted Vault.zip is also in the ctf_tasks folder. Use the final answer from Q10 as its password.
+
 ## Allowed
 
 - Web browsers
