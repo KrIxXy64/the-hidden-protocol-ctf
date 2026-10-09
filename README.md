@@ -24,19 +24,20 @@ Do not brute-force ZIP passwords.
 
 ## Challenge Packs
 
-The following challenge packs are currently available:
+All ten challenge packs are available in the `ctf_tasks` folder:
 
-- Q1
-- Q2
-- Q3
-- Q4
-- Q5
-- Q6
-- Q7
+- Q1.zip
+- Q2.zip
+- Q3.zip
+- Q4.zip
+- Q5.zip
+- Q6.zip
+- Q7.zip
+- Q8.zip
+- Q9.zip
+- Q10.zip
 
-**Q8-Q10 will be added after final organizer review.**
-
-Download the available challenge packs from the `ctf_tasks` folder.
+Start with Q1 and follow the instructions in each pack to unlock the next.
 
 ## Allowed
 
